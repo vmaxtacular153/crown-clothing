@@ -1,0 +1,13 @@
+.sign-up {
+    display: flex;
+    flex-direction: column; 
+    width: 80%;
+    
+    .title {
+        margin: 10px 0;
+    }
+}
+.sign-up-form {
+    z-index: 1000;
+}
+
